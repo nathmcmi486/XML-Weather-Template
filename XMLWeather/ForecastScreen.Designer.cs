@@ -54,7 +54,7 @@
             this.day1Label.Location = new System.Drawing.Point(35, 61);
             this.day1Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.day1Label.Name = "day1";
-            this.day1Label.Size = new System.Drawing.Size(300, 35);
+            this.day1Label.Size = new System.Drawing.Size(330, 35);
             this.day1Label.Text = "day1";
 
             this.day2Label.BackColor = System.Drawing.Color.Transparent;
@@ -63,7 +63,7 @@
             this.day2Label.Location = new System.Drawing.Point(35, 101);
             this.day2Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.day2Label.Name = "day2";
-            this.day2Label.Size = new System.Drawing.Size(300, 35);
+            this.day2Label.Size = new System.Drawing.Size(330, 35);
             this.day2Label.Text = "day2";
 
             this.day3Label.BackColor = System.Drawing.Color.Transparent;
@@ -72,7 +72,7 @@
             this.day3Label.Location = new System.Drawing.Point(35, 141);
             this.day3Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.day3Label.Name = "day3";
-            this.day3Label.Size = new System.Drawing.Size(300, 35);
+            this.day3Label.Size = new System.Drawing.Size(330, 35);
             this.day3Label.Text = "day3";
 
             this.day4Label.BackColor = System.Drawing.Color.Transparent;
@@ -81,7 +81,7 @@
             this.day4Label.Location = new System.Drawing.Point(35, 181);
             this.day4Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.day4Label.Name = "day4";
-            this.day4Label.Size = new System.Drawing.Size(300, 35);
+            this.day4Label.Size = new System.Drawing.Size(330, 35);
             this.day4Label.Text = "day4";
 
             this.day5Label.BackColor = System.Drawing.Color.Transparent;
@@ -90,7 +90,7 @@
             this.day5Label.Location = new System.Drawing.Point(35, 221);
             this.day5Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.day5Label.Name = "day5";
-            this.day5Label.Size = new System.Drawing.Size(300, 35);
+            this.day5Label.Size = new System.Drawing.Size(330, 35);
             this.day5Label.Text = "day5";
 
             this.day6Label.BackColor = System.Drawing.Color.Transparent;
@@ -99,7 +99,7 @@
             this.day6Label.Location = new System.Drawing.Point(35, 261);
             this.day6Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.day6Label.Name = "day6";
-            this.day6Label.Size = new System.Drawing.Size(300, 35);
+            this.day6Label.Size = new System.Drawing.Size(330, 35);
             this.day6Label.Text = "day6";
 
             this.day7Label.BackColor = System.Drawing.Color.Transparent;
@@ -108,7 +108,7 @@
             this.day7Label.Location = new System.Drawing.Point(35, 301);
             this.day7Label.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.day7Label.Name = "day7";
-            this.day7Label.Size = new System.Drawing.Size(300, 35);
+            this.day7Label.Size = new System.Drawing.Size(330, 35);
             this.day7Label.Text = "day7";
 
             this.BackColor = System.Drawing.Color.DeepSkyBlue;

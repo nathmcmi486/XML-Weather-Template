@@ -31,14 +31,14 @@ namespace XMLWeather
                 {
                     case 0:
                         day.convert_to_ints();  
-                        day1Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)} Low: {Math.Round(day.tempLowN, 0)}");
+                        day1Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)}C Low: {Math.Round(day.tempLowN, 0)}C");
 
                         day1Label.ForeColor = colors[0];
                         day1Label.BackColor = colors[1];
 
                         break;
                     case 1:
-                        day2Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)} Low: {Math.Round(day.tempLowN, 0)}");
+                        day2Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)}C Low: {Math.Round(day.tempLowN, 0)}C");
 
                         day2Label.ForeColor = colors[0];
                         day2Label.BackColor = colors[1];
@@ -46,35 +46,35 @@ namespace XMLWeather
 
                         break;
                     case 2:
-                        day3Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)} Low: {Math.Round(day.tempLowN, 0)}");
+                        day3Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)}C Low: {Math.Round(day.tempLowN, 0)}C");
 
                         day3Label.ForeColor = colors[0];
                         day3Label.BackColor = colors[1];
 
                         break;
                     case 3:
-                        day4Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)} Low: {Math.Round(day.tempLowN, 0)}");
+                        day4Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)}C Low: {Math.Round(day.tempLowN, 0)}C");
 
                         day4Label.ForeColor = colors[0];
                         day4Label.BackColor = colors[1];
 
                         break;
                     case 4:
-                        day5Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)} Low: {Math.Round(day.tempLowN, 0)}");
+                        day5Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)}C Low: {Math.Round(day.tempLowN, 0)}C");
 
                         day5Label.ForeColor = colors[0];
                         day5Label.BackColor = colors[1];
 
                         break;
                     case 5:
-                        day6Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)} Low: {Math.Round(day.tempLowN, 0)}");
+                        day6Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)}C Low: {Math.Round(day.tempLowN, 0)}C");
 
                         day6Label.ForeColor = colors[0];
                         day6Label.BackColor = colors[1];
 
                         break;
                     case 6:
-                        day7Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)} Low: {Math.Round(day.tempLowN, 0)}");
+                        day7Label.Text = String.Format($"{day.month}/{day.day} High: {Math.Round(day.tempHighN, 0)}C Low: {Math.Round(day.tempLowN, 0)}C");
 
                         day7Label.ForeColor = colors[0];
                         day7Label.BackColor = colors[1];

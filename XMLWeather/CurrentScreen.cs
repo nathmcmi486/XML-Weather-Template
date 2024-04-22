@@ -29,7 +29,7 @@ namespace XMLWeather
 
             this.cityOutput.Text = $"{city} {country}";
             this.cityOutput.ForeColor = colors[0];
-            this.tempLabel.Text = $"High: {Math.Round(day.tempHighN)}, Low: {Math.Round(day.tempLowN)}";
+            this.tempLabel.Text = $"High: {Math.Round(day.tempHighN)}C, Low: {Math.Round(day.tempLowN)}C";
             this.tempLabel.ForeColor = colors[0];
             this.precepitationLabel.Text = $"{Convert.ToDouble(day.precipitation) * 100.0}% of Precepitation";
             this.precepitationLabel.ForeColor = colors[0];

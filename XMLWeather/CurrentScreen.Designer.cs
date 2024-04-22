@@ -46,7 +46,7 @@
             this.tempLabel.Location = new System.Drawing.Point(28, 158);
             this.tempLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.tempLabel.Name = "tempLabel";
-            this.tempLabel.Size = new System.Drawing.Size(225, 35);
+            this.tempLabel.Size = new System.Drawing.Size(300, 35);
             this.tempLabel.TabIndex = 22;
             this.tempLabel.Text = "acceptable";
 
